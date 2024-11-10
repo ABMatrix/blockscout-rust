@@ -1,6 +1,6 @@
 {
     "template_values": {
-        "native_coin_symbol": "tBOL"
+        "native_coin_symbol": "BOL"
     },
     "counters": {
         "total_blocks": {
